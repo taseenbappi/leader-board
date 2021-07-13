@@ -11,7 +11,11 @@ header{
     height: 94px;
 }
 
-
+main{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
 
 .top-container{
     background-color: white;
@@ -32,10 +36,7 @@ header{
     border-radius: 5px;
 }
 
-main{
-    display: flex;
-    flex-direction: column;
-}
+
 
 /* navigation styles */
 
