@@ -214,6 +214,10 @@ hr{
     margin: 0;
 }
 
+.playerName{
+    cursor: pointer;
+}
+
 /*---------------- 
 media query start 
 ------------------ */
