@@ -94,8 +94,11 @@ nav a{
 }
 .player{
     width: 100%;
+    max-height: 75%;
     display: flex;
     align-items: center;
+    border-radius: 10px;
+    padding: 0 10px;
    
 }
 
@@ -117,6 +120,7 @@ hr{
     margin-left: 16px;
     font-size: 18px;
     width: 100%;
+    font-weight: 300;
 }
 
 /* blogs style */
